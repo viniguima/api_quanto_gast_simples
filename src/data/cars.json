@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "Id": 1,
     "CarModel": "Onix Joy 1.0",
     "CarYear": 2019,
     "AutoCityGas": "9,1",
@@ -9,7 +9,7 @@
     "AutoRoadAlc": "15,3"
   },
   {
-    "id": 2,
+    "Id": 2,
     "CarModel": "Onix LT 1.4",
     "CarYear": 2019,
     "AutoCityGas": "8,6",
@@ -18,7 +18,7 @@
     "AutoRoadAlc": "14,9"
   },
   {
-    "id": 3,
+    "Id": 3,
     "CarModel": "Onix Activ 1.4 AT",
     "CarYear": 2019,
     "AutoCityGas": "7,7",
@@ -27,7 +27,7 @@
     "AutoRoadAlc": "12,6"
   },
   {
-    "id": 4,
+    "Id": 4,
     "CarModel": "Onix LTZ 1.4",
     "CarYear": 2019,
     "AutoCityGas": "8,6",
@@ -36,7 +36,7 @@
     "AutoRoadAlc": "14,9"
   },
   {
-    "id": 5,
+    "Id": 5,
     "CarModel": "Onix Effect 1.4",
     "CarYear": 2019,
     "AutoCityGas": "8,6",
@@ -45,7 +45,7 @@
     "AutoRoadAlc": "14,9"
   },
   {
-    "id": 6,
+    "Id": 6,
     "CarModel": "Onix Activ 1.4",
     "CarYear": 2019,
     "AutoCityGas": "8,3",
@@ -54,7 +54,7 @@
     "AutoRoadAlc": "13,8"
   },
   {
-    "id": 7,
+    "Id": 7,
     "CarModel": "Onix Joy 1.0",
     "CarYear": 2018,
     "AutoCityGas": "9,1",
@@ -63,7 +63,7 @@
     "AutoRoadAlc": "15,3"
   },
   {
-    "id": 8,
+    "Id": 8,
     "CarModel": "Onix LT 1.0",
     "CarYear": 2018,
     "AutoCityGas": "8,8",
@@ -72,7 +72,7 @@
     "AutoRoadAlc": "15,3"
   },
   {
-    "id": 9,
+    "Id": 9,
     "CarModel": "Onix LTZ 1.4",
     "CarYear": 2018,
     "AutoCityGas": "8,6",
@@ -81,7 +81,7 @@
     "AutoRoadAlc": "14,9"
   },
   {
-    "id": 10,
+    "Id": 10,
     "CarModel": "Onix Activ 1.4 AT",
     "CarYear": 2018,
     "AutoCityGas": "7,7",
@@ -90,7 +90,7 @@
     "AutoRoadAlc": "12,6"
   },
   {
-    "id": 11,
+    "Id": 11,
     "CarModel": "Onix LT 1.4 AT",
     "CarYear": 2018,
     "AutoCityGas": "7,9",
@@ -99,7 +99,7 @@
     "AutoRoadAlc": "13,9"
   },
   {
-    "id": 12,
+    "Id": 12,
     "CarModel": "Onix Advantage 1.4 AT",
     "CarYear": 2018,
     "AutoCityGas": "7,9",
@@ -108,7 +108,7 @@
     "AutoRoadAlc": "13,9"
   },
   {
-    "id": 13,
+    "Id": 13,
     "CarModel": "Onix LTZ 1.4 AT",
     "CarYear": 2018,
     "AutoCityGas": "7,9",
@@ -117,7 +117,7 @@
     "AutoRoadAlc": "13,9"
   },
   {
-    "id": 14,
+    "Id": 14,
     "CarModel": "Onix Joy 1.0",
     "CarYear": 2017,
     "AutoCityGas": "9,1",
@@ -126,7 +126,7 @@
     "AutoRoadAlc": "15,3"
   },
   {
-    "id": 15,
+    "Id": 15,
     "CarModel": "Onix LTZ 1.4 AT",
     "CarYear": 2017,
     "AutoCityGas": "7,9",
@@ -135,7 +135,7 @@
     "AutoRoadAlc": "13,9"
   },
   {
-    "id": 16,
+    "Id": 16,
     "CarModel": "Onix LT 1.4 AT",
     "CarYear": 2017,
     "AutoCityGas": "7,9",
@@ -144,7 +144,7 @@
     "AutoRoadAlc": "13,9"
   },
   {
-    "id": 17,
+    "Id": 17,
     "CarModel": "Onix Activ 1.4",
     "CarYear": 2017,
     "AutoCityGas": "8,3",
@@ -153,7 +153,7 @@
     "AutoRoadAlc": "13,8"
   },
   {
-    "id": 18,
+    "Id": 18,
     "CarModel": "Onix LT 1.0",
     "CarYear": 2017,
     "AutoCityGas": "8,8",
@@ -162,7 +162,7 @@
     "AutoRoadAlc": "15,3"
   },
   {
-    "id": 19,
+    "Id": 19,
     "CarModel": "Onix LT 1.4",
     "CarYear": 2017,
     "AutoCityGas": "8,6",
@@ -171,7 +171,7 @@
     "AutoRoadAlc": "14,9"
   },
   {
-    "id": 20,
+    "Id": 20,
     "CarModel": "Onix Activ 1.4 AT",
     "CarYear": 2017,
     "AutoCityGas": "7,7",
@@ -180,7 +180,7 @@
     "AutoRoadAlc": "12,6"
   },
   {
-    "id": 21,
+    "Id": 21,
     "CarModel": "Onix Effect 1.4",
     "CarYear": 2016,
     "AutoCityGas": "7,9",
@@ -189,7 +189,7 @@
     "AutoRoadAlc": "13,6"
   },
   {
-    "id": 22,
+    "Id": 22,
     "CarModel": "Onix LTZ 1.4",
     "CarYear": 2016,
     "AutoCityGas": "7,9",
@@ -198,7 +198,7 @@
     "AutoRoadAlc": "13,6"
   },
   {
-    "id": 23,
+    "Id": 23,
     "CarModel": "Onix LT 1.0",
     "CarYear": 2016,
     "AutoCityGas": "7,8",
@@ -207,7 +207,7 @@
     "AutoRoadAlc": "13,5"
   },
   {
-    "id": 24,
+    "Id": 24,
     "CarModel": "Onix LS 1.0",
     "CarYear": 2016,
     "AutoCityGas": "7,8",
@@ -216,7 +216,7 @@
     "AutoRoadAlc": "13,5"
   },
   {
-    "id": 25,
+    "Id": 25,
     "CarModel": "Onix LT 1.4",
     "CarYear": 2015,
     "AutoCityGas": "7,9",
@@ -225,7 +225,7 @@
     "AutoRoadAlc": "13,6"
   },
   {
-    "id": 26,
+    "Id": 26,
     "CarModel": "Onix LT 1.4 AT",
     "CarYear": 2015,
     "AutoCityGas": "7,7",
@@ -234,7 +234,7 @@
     "AutoRoadAlc": "13,3"
   },
   {
-    "id": 27,
+    "Id": 27,
     "CarModel": "Onix LTZ 1.4 AT",
     "CarYear": 2015,
     "AutoCityGas": "7,7",
@@ -243,7 +243,7 @@
     "AutoRoadAlc": "13,3"
   },
   {
-    "id": 28,
+    "Id": 28,
     "CarModel": "Onix LT 1.0",
     "CarYear": 2015,
     "AutoCityGas": "7,8",
@@ -252,7 +252,7 @@
     "AutoRoadAlc": "12,5"
   },
   {
-    "id": 29,
+    "Id": 29,
     "CarModel": "Onix Effect 1.4",
     "CarYear": 2015,
     "AutoCityGas": "7,9",
@@ -261,7 +261,7 @@
     "AutoRoadAlc": "13,6"
   },
   {
-    "id": 30,
+    "Id": 30,
     "CarModel": "Onix LTZ 1.4",
     "CarYear": 2015,
     "AutoCityGas": "7,9",
@@ -270,7 +270,7 @@
     "AutoRoadAlc": "13,6"
   },
   {
-    "id": 31,
+    "Id": 31,
     "CarModel": "Onix LTZ 1.4",
     "CarYear": 2014,
     "AutoCityGas": "7,9",
@@ -279,7 +279,7 @@
     "AutoRoadAlc": "13,6"
   },
   {
-    "id": 32,
+    "Id": 32,
     "CarModel": "Onix LT 1.4 AT",
     "CarYear": 2014,
     "AutoCityGas": "7,7",
@@ -288,7 +288,7 @@
     "AutoRoadAlc": "13,3"
   },
   {
-    "id": 33,
+    "Id": 33,
     "CarModel": "Onix LTZ 1.4 AT",
     "CarYear": 2014,
     "AutoCityGas": "7,7",
@@ -297,7 +297,7 @@
     "AutoRoadAlc": "13,3"
   },
   {
-    "id": 34,
+    "Id": 34,
     "CarModel": "Onix LT 1.0",
     "CarYear": 2014,
     "AutoCityGas": "7,8",
@@ -306,7 +306,7 @@
     "AutoRoadAlc": "12,5"
   },
   {
-    "id": 35,
+    "Id": 35,
     "CarModel": "Onix LS 1.0",
     "CarYear": 2014,
     "AutoCityGas": "7,8",
@@ -315,7 +315,7 @@
     "AutoRoadAlc": "12,5"
   },
   {
-    "id": 36,
+    "Id": 36,
     "CarModel": "Onix Lollapalooza 1.0",
     "CarYear": 2014,
     "AutoCityGas": "7,8",
@@ -324,7 +324,7 @@
     "AutoRoadAlc": "12,5"
   },
   {
-    "id": 37,
+    "Id": 37,
     "CarModel": "Onix LT 1.0",
     "CarYear": 2013,
     "AutoCityGas": "7,8",
@@ -333,7 +333,7 @@
     "AutoRoadAlc": "12,5"
   },
   {
-    "id": 38,
+    "Id": 38,
     "CarModel": "Onix LT 1.4",
     "CarYear": 2013,
     "AutoCityGas": "7,9",
@@ -342,7 +342,7 @@
     "AutoRoadAlc": "13,6"
   },
   {
-    "id": 39,
+    "Id": 39,
     "CarModel": "Onix LS 1.0",
     "CarYear": 2013,
     "AutoCityGas": "7,8",
@@ -351,12 +351,750 @@
     "AutoRoadAlc": "12,5"
   },
   {
-    "id": 40,
+    "Id": 40,
     "CarModel": "Onix LTZ 1.4",
     "CarYear": 2013,
     "AutoCityGas": "7,9",
     "AutoCityAlc": "11,5",
     "AutoRoadGas": "9,6",
     "AutoRoadAlc": "13,6"
+  },
+  {
+    "Id": 41,
+    "CarModel": "Celta LT 1.0",
+    "CarYear": 2015,
+    "AutoCityGas": "10,7",
+    "AutoCityAlc": "7,6",
+    "AutoRoadGas": "12,8",
+    "AutoRoadAlc": "8,7"
+  },
+  {
+    "Id": 42,
+    "CarModel": "Celta Advantage 1.0",
+    "CarYear": 2014,
+    "AutoCityGas": "10,7",
+    "AutoCityAlc": "7,6",
+    "AutoRoadGas": "12,8",
+    "AutoRoadAlc": "8,7"
+  },
+  {
+    "Id": 43,
+    "CarModel": "Celta LS 1.0",
+    "CarYear": 2014,
+    "AutoCityGas": "10,7",
+    "AutoCityAlc": "7,6",
+    "AutoRoadGas": "12,8",
+    "AutoRoadAlc": "8,7"
+  },
+  {
+    "Id": 44,
+    "CarModel": "Celta LT 1.0",
+    "CarYear": 2014,
+    "AutoCityGas": "10,7",
+    "AutoCityAlc": "7,6",
+    "AutoRoadGas": "12,8",
+    "AutoRoadAlc": "8,7"
+  },
+  {
+    "Id": 45,
+    "CarModel": "Celta LT 1.0",
+    "CarYear": 2013,
+    "AutoCityGas": "10,7",
+    "AutoCityAlc": "7,6",
+    "AutoRoadGas": "12,8",
+    "AutoRoadAlc": "8,7"
+  },
+  {
+    "Id": 46,
+    "CarModel": "Celta LS 1.0",
+    "CarYear": 2013,
+    "AutoCityGas": "10,7",
+    "AutoCityAlc": "7,6",
+    "AutoRoadGas": "12,8",
+    "AutoRoadAlc": "8,7"
+  },
+  {
+    "Id": 47,
+    "CarModel": "Celta LS 1.0",
+    "CarYear": 2012,
+    "AutoCityGas": "10,7",
+    "AutoCityAlc": "7,6",
+    "AutoRoadGas": "12,8",
+    "AutoRoadAlc": "8,7"
+  },
+  {
+    "Id": 48,
+    "CarModel": "Celta Life 1.0",
+    "CarYear": 2011,
+    "AutoCityGas": "10,7",
+    "AutoCityAlc": "7,6",
+    "AutoRoadGas": "12,8",
+    "AutoRoadAlc": "8,7"
+  },
+  {
+    "Id": 49,
+    "CarModel": "Celta Life 1.0",
+    "CarYear": 2011,
+    "AutoCityGas": "10,7",
+    "AutoCityAlc": "7,6",
+    "AutoRoadGas": "12,8",
+    "AutoRoadAlc": "8,7"
+  },
+  {
+    "Id": 50,
+    "CarModel": "Celta Spirit 1.0",
+    "CarYear": 2011,
+    "AutoCityGas": "10,7",
+    "AutoCityAlc": "7,6",
+    "AutoRoadGas": "12,8",
+    "AutoRoadAlc": "8,7"
+  },
+  {
+    "Id": 51,
+    "CarModel": "Celta Spirit 1.0",
+    "CarYear": 2010,
+    "AutoCityGas": "10,7",
+    "AutoCityAlc": "7,6",
+    "AutoRoadGas": "12,8",
+    "AutoRoadAlc": "8,7"
+  },
+  {
+    "Id": 52,
+    "CarModel": "Celta Life 1.0",
+    "CarYear": 2010,
+    "AutoCityGas": "10,7",
+    "AutoCityAlc": "7,6",
+    "AutoRoadGas": "12,8",
+    "AutoRoadAlc": "8,7"
+  },
+  {
+    "Id": 53,
+    "CarModel": "Celta Life 1.0",
+    "CarYear": 2009,
+    "AutoCityGas": "10,7",
+    "AutoCityAlc": "7,6",
+    "AutoRoadGas": "12,8",
+    "AutoRoadAlc": "8,7"
+  },
+  {
+    "Id": 54,
+    "CarModel": "Celta Super 1.0",
+    "CarYear": 2009,
+    "AutoCityGas": "10,7",
+    "AutoCityAlc": "7,6",
+    "AutoRoadGas": "12,8",
+    "AutoRoadAlc": "8,7"
+  },
+  {
+    "Id": 55,
+    "CarModel": "Celta Spirit 1.0",
+    "CarYear": 2009,
+    "AutoCityGas": "10,7",
+    "AutoCityAlc": "7,6",
+    "AutoRoadGas": "12,8",
+    "AutoRoadAlc": "8,7"
+  },
+  {
+    "Id": 56,
+    "CarModel": "Celta Life 1.0",
+    "CarYear": 2009,
+    "AutoCityGas": "10,7",
+    "AutoCityAlc": "7,6",
+    "AutoRoadGas": "12,8",
+    "AutoRoadAlc": "8,7"
+  },
+  {
+    "Id": 57,
+    "CarModel": "Celta Spirit 1.0",
+    "CarYear": 2008,
+    "AutoCityGas": "10,7",
+    "AutoCityAlc": "7,6",
+    "AutoRoadGas": "12,8",
+    "AutoRoadAlc": "8,7"
+  },
+  {
+    "Id": 58,
+    "CarModel": "Celta Life 1.0",
+    "CarYear": 2008,
+    "AutoCityGas": "10,7",
+    "AutoCityAlc": "7,6",
+    "AutoRoadGas": "12,8",
+    "AutoRoadAlc": "8,7"
+  },
+  {
+    "Id": 59,
+    "CarModel": "Celta Super 1.0",
+    "CarYear": 2008,
+    "AutoCityGas": "10,7",
+    "AutoCityAlc": "7,6",
+    "AutoRoadGas": "12,8",
+    "AutoRoadAlc": "8,7"
+  },
+  {
+    "Id": 60,
+    "CarModel": "Celta Life 1.0",
+    "CarYear": 2008,
+    "AutoCityGas": "10,7",
+    "AutoCityAlc": "7,6",
+    "AutoRoadGas": "12,8",
+    "AutoRoadAlc": "8,7"
+  },
+  {
+    "Id": 61,
+    "CarModel": "Celta Life 1.0",
+    "CarYear": 2007,
+    "AutoCityGas": "10,7",
+    "AutoCityAlc": "7,6",
+    "AutoRoadGas": "12,8",
+    "AutoRoadAlc": "8,7"
+  },
+  {
+    "Id": 62,
+    "CarModel": "Celta Life 1.0",
+    "CarYear": 2007,
+    "AutoCityGas": "10,7",
+    "AutoCityAlc": "7,6",
+    "AutoRoadGas": "12,8",
+    "AutoRoadAlc": "8,7"
+  },
+  {
+    "Id": 63,
+    "CarModel": "Celta Spirit 1.0",
+    "CarYear": 2007,
+    "AutoCityGas": "10,7",
+    "AutoCityAlc": "7,6",
+    "AutoRoadGas": "12,8",
+    "AutoRoadAlc": "8,7"
+  },
+  {
+    "Id": 64,
+    "CarModel": "Celta Super 1.4",
+    "CarYear": 2006,
+    "AutoCityGas": "8,4",
+    "AutoCityAlc": "7,6",
+    "AutoRoadGas": "14,4",
+    "AutoRoadAlc": "8,7"
+  },
+  {
+    "Id": 65,
+    "CarModel": "Celta Life 1.0",
+    "CarYear": 2006,
+    "AutoCityGas": "10,7",
+    "AutoCityAlc": null,
+    "AutoRoadGas": "12,8",
+    "AutoRoadAlc": null
+  },
+  {
+    "Id": 66,
+    "CarModel": "Celta Spirit 1.0",
+    "CarYear": 2005,
+    "AutoCityGas": "8,8",
+    "AutoCityAlc": null,
+    "AutoRoadGas": "14,4",
+    "AutoRoadAlc": null
+  },
+  {
+    "Id": 67,
+    "CarModel": "Celta Life 1.0",
+    "CarYear": 2005,
+    "AutoCityGas": "8,8",
+    "AutoCityAlc": null,
+    "AutoRoadGas": "14,4",
+    "AutoRoadAlc": null
+  },
+  {
+    "Id": 68,
+    "CarModel": "Celta Off-Road 1.4",
+    "CarYear": 2005,
+    "AutoCityGas": "8,4",
+    "AutoCityAlc": null,
+    "AutoRoadGas": "14,4",
+    "AutoRoadAlc": null
+  },
+  {
+    "Id": 69,
+    "CarModel": "Celta Piquet 1.0",
+    "CarYear": 2003,
+    "AutoCityGas": "8,6",
+    "AutoCityAlc": null,
+    "AutoRoadGas": "15,2",
+    "AutoRoadAlc": null
+  },
+  {
+    "Id": 70,
+    "CarModel": "Celta Super 1.0",
+    "CarYear": 2002,
+    "AutoCityGas": "8,5",
+    "AutoCityAlc": null,
+    "AutoRoadGas": "14,2",
+    "AutoRoadAlc": null
+  },
+  {
+    "Id": 71,
+    "CarModel": "Celta 1.0",
+    "CarYear": 2002,
+    "AutoCityGas": "9,1",
+    "AutoCityAlc": null,
+    "AutoRoadGas": 14,
+    "AutoRoadAlc": null
+  },
+  {
+    "Id": 72,
+    "CarModel": "Hb20 Unique 1.0",
+    "CarYear": 2019,
+    "AutoCityGas": "12,5",
+    "AutoCityAlc": "8,5",
+    "AutoRoadGas": "14,1",
+    "AutoRoadAlc": "9,9"
+  },
+  {
+    "Id": 73,
+    "CarModel": "Hb20 Comfort Plus 1.6",
+    "CarYear": 2019,
+    "AutoCityGas": "11,6",
+    "AutoCityAlc": "8,1",
+    "AutoRoadGas": "13,8",
+    "AutoRoadAlc": "9,9"
+  },
+  {
+    "Id": 74,
+    "CarModel": "Hb20 Comfort Plus 1.6 AT",
+    "CarYear": 2019,
+    "AutoCityGas": "9,9",
+    "AutoCityAlc": "7,1",
+    "AutoRoadGas": "12,5",
+    "AutoRoadAlc": "9,4"
+  },
+  {
+    "Id": 75,
+    "CarModel": "Hb20 Copa do Mundo 1.0",
+    "CarYear": 2019,
+    "AutoCityGas": "12,5",
+    "AutoCityAlc": "8,5",
+    "AutoRoadGas": "14,1",
+    "AutoRoadAlc": "9,9"
+  },
+  {
+    "Id": 76,
+    "CarModel": "Hb20 R Spec 1.6 AT",
+    "CarYear": 2019,
+    "AutoCityGas": "9,9",
+    "AutoCityAlc": "7,1",
+    "AutoRoadGas": "12,5",
+    "AutoRoadAlc": "9,4"
+  },
+  {
+    "Id": 77,
+    "CarModel": "Hb20 Copa do Mundo 1.6 AT",
+    "CarYear": 2019,
+    "AutoCityGas": "9,9",
+    "AutoCityAlc": "7,1",
+    "AutoRoadGas": "14,1",
+    "AutoRoadAlc": "9,9"
+  },
+  {
+    "Id": 78,
+    "CarModel": "Hb20 5 Anos 1.0",
+    "CarYear": 2018,
+    "AutoCityGas": "12,5",
+    "AutoCityAlc": "8,5",
+    "AutoRoadGas": "13,8",
+    "AutoRoadAlc": "9,9"
+  },
+  {
+    "Id": 79,
+    "CarModel": "Hb20 Comfort Plus 1.6",
+    "CarYear": 2018,
+    "AutoCityGas": "11,6",
+    "AutoCityAlc": "8,1",
+    "AutoRoadGas": "12,5",
+    "AutoRoadAlc": "9,4"
+  },
+  {
+    "Id": 80,
+    "CarModel": "Hb20 R Spec Limited 1.6 AT",
+    "CarYear": 2018,
+    "AutoCityGas": "9,9",
+    "AutoCityAlc": "7,1",
+    "AutoRoadGas": "14,1",
+    "AutoRoadAlc": "9,9"
+  },
+  {
+    "Id": 81,
+    "CarModel": "Hb20 Comfort Plus 1.0",
+    "CarYear": 2018,
+    "AutoCityGas": "12,5",
+    "AutoCityAlc": "8,5",
+    "AutoRoadGas": "12,5",
+    "AutoRoadAlc": "9,4"
+  },
+  {
+    "Id": 82,
+    "CarModel": "Hb20 Premium 1.6 AT",
+    "CarYear": 2018,
+    "AutoCityGas": "9,9",
+    "AutoCityAlc": "7,1",
+    "AutoRoadGas": "12,5",
+    "AutoRoadAlc": "9,4"
+  },
+  {
+    "Id": 83,
+    "CarModel": "Hb20 Comfort Plus 1.6 AT",
+    "CarYear": 2018,
+    "AutoCityGas": "9,9",
+    "AutoCityAlc": "7,1",
+    "AutoRoadGas": "14,3",
+    "AutoRoadAlc": "10,1"
+  },
+  {
+    "Id": 84,
+    "CarModel": "Hb20 Comfort Plus 1.0 Turbo",
+    "CarYear": 2017,
+    "AutoCityGas": "11,6",
+    "AutoCityAlc": "8,2",
+    "AutoRoadGas": "14,3",
+    "AutoRoadAlc": "10,1"
+  },
+  {
+    "Id": 85,
+    "CarModel": "Hb20 Comfort Style 1.0 Turbo",
+    "CarYear": 2017,
+    "AutoCityGas": "11,6",
+    "AutoCityAlc": "8,2",
+    "AutoRoadGas": "13,8",
+    "AutoRoadAlc": "9,9"
+  },
+  {
+    "Id": 86,
+    "CarModel": "Hb20 R Spec 1.6",
+    "CarYear": 2017,
+    "AutoCityGas": "11,6",
+    "AutoCityAlc": "8,1",
+    "AutoRoadGas": "14,1",
+    "AutoRoadAlc": "9,9"
+  },
+  {
+    "Id": 87,
+    "CarModel": "Hb20 Ocean 1.0",
+    "CarYear": 2017,
+    "AutoCityGas": "12,5",
+    "AutoCityAlc": "8,5",
+    "AutoRoadGas": "14,1",
+    "AutoRoadAlc": "9,9"
+  },
+  {
+    "Id": 88,
+    "CarModel": "Hb20 Comfort Plus 1.0",
+    "CarYear": 2017,
+    "AutoCityGas": "12,5",
+    "AutoCityAlc": "8,5",
+    "AutoRoadGas": "13,8",
+    "AutoRoadAlc": "9,9"
+  },
+  {
+    "Id": 89,
+    "CarModel": "Hb20 Ocean 1.6",
+    "CarYear": 2017,
+    "AutoCityGas": "11,6",
+    "AutoCityAlc": "8,1",
+    "AutoRoadGas": "14,1",
+    "AutoRoadAlc": "9,9"
+  },
+  {
+    "Id": 90,
+    "CarModel": "Hb20 Comfort 1.0",
+    "CarYear": 2017,
+    "AutoCityGas": "12,5",
+    "AutoCityAlc": "8,5",
+    "AutoRoadGas": "13,8",
+    "AutoRoadAlc": "9,9"
+  },
+  {
+    "Id": 91,
+    "CarModel": "Hb20 Comfort Style 1.6",
+    "CarYear": 2017,
+    "AutoCityGas": "11,6",
+    "AutoCityAlc": "8,1",
+    "AutoRoadGas": "13,8",
+    "AutoRoadAlc": "9,9"
+  },
+  {
+    "Id": 92,
+    "CarModel": "Hb20 Comfort Plus 1.6",
+    "CarYear": 2017,
+    "AutoCityGas": "11,6",
+    "AutoCityAlc": "8,1",
+    "AutoRoadGas": "12,5",
+    "AutoRoadAlc": "9,4"
+  },
+  {
+    "Id": 93,
+    "CarModel": "Hb20 Comfort Plus 1.6 AT",
+    "CarYear": 2017,
+    "AutoCityGas": "9,9",
+    "AutoCityAlc": "7,1",
+    "AutoRoadGas": "12,5",
+    "AutoRoadAlc": "9,4"
+  },
+  {
+    "Id": 94,
+    "CarModel": "Hb20 Comfort Style 1.6 AT",
+    "CarYear": 2017,
+    "AutoCityGas": "9,9",
+    "AutoCityAlc": "7,1",
+    "AutoRoadGas": "14,1",
+    "AutoRoadAlc": "9,9"
+  },
+  {
+    "Id": 95,
+    "CarModel": "Hb20 Comfort 1.0",
+    "CarYear": 2016,
+    "AutoCityGas": "12,5",
+    "AutoCityAlc": "8,5",
+    "AutoRoadGas": "13,8",
+    "AutoRoadAlc": "9,9"
+  },
+  {
+    "Id": 96,
+    "CarModel": "Hb20 Comfort Style 1.6",
+    "CarYear": 2016,
+    "AutoCityGas": "11,6",
+    "AutoCityAlc": "8,1",
+    "AutoRoadGas": "12,5",
+    "AutoRoadAlc": "9,4"
+  },
+  {
+    "Id": 97,
+    "CarModel": "Hb20 R Spec 1.6 AT",
+    "CarYear": 2016,
+    "AutoCityGas": "9,9",
+    "AutoCityAlc": "7,1",
+    "AutoRoadGas": "13,8",
+    "AutoRoadAlc": "9,9"
+  },
+  {
+    "Id": 98,
+    "CarModel": "Hb20 R Spec 1.6",
+    "CarYear": 2016,
+    "AutoCityGas": "11,6",
+    "AutoCityAlc": "8,1",
+    "AutoRoadGas": "12,5",
+    "AutoRoadAlc": "9,4"
+  },
+  {
+    "Id": 99,
+    "CarModel": "Hb20 Premium 1.6 AT",
+    "CarYear": 2016,
+    "AutoCityGas": "9,9",
+    "AutoCityAlc": "7,1",
+    "AutoRoadGas": "12,5",
+    "AutoRoadAlc": "9,4"
+  },
+  {
+    "Id": 100,
+    "CarModel": "Hb20 Comfort Plus 1.6 AT",
+    "CarYear": 2016,
+    "AutoCityGas": "9,9",
+    "AutoCityAlc": "7,1",
+    "AutoRoadGas": "12,5",
+    "AutoRoadAlc": "9,4"
+  },
+  {
+    "Id": 101,
+    "CarModel": "Hb20 Comfort Style 1.6 AT",
+    "CarYear": 2016,
+    "AutoCityGas": "9,9",
+    "AutoCityAlc": "7,1",
+    "AutoRoadGas": "14,1",
+    "AutoRoadAlc": "9,9"
+  },
+  {
+    "Id": 102,
+    "CarModel": "Hb20 Comfort Plus 1.0",
+    "CarYear": 2016,
+    "AutoCityGas": "12,5",
+    "AutoCityAlc": "8,5",
+    "AutoRoadGas": "11,8",
+    "AutoRoadAlc": "8,3"
+  },
+  {
+    "Id": 103,
+    "CarModel": "Hb20 Comfort Style 1.6 AT",
+    "CarYear": 2015,
+    "AutoCityGas": "10,1",
+    "AutoCityAlc": 7,
+    "AutoRoadGas": "14,5",
+    "AutoRoadAlc": "9,8"
+  },
+  {
+    "Id": 104,
+    "CarModel": "Hb20 Spicy 1.0",
+    "CarYear": 2015,
+    "AutoCityGas": "11,5",
+    "AutoCityAlc": "7,6",
+    "AutoRoadGas": 13,
+    "AutoRoadAlc": "9,3"
+  },
+  {
+    "Id": 105,
+    "CarModel": "Hb20 Spicy 1.6",
+    "CarYear": 2015,
+    "AutoCityGas": "11,5",
+    "AutoCityAlc": "7,7",
+    "AutoRoadGas": "12,3",
+    "AutoRoadAlc": "8,8"
+  },
+  {
+    "Id": 106,
+    "CarModel": "Hb20 Spicy 1.6 AT",
+    "CarYear": 2015,
+    "AutoCityGas": "10,3",
+    "AutoCityAlc": "7,2",
+    "AutoRoadGas": "11,8",
+    "AutoRoadAlc": "8,3"
+  },
+  {
+    "Id": 107,
+    "CarModel": "Hb20 Comfort Plus 1.6 AT",
+    "CarYear": 2015,
+    "AutoCityGas": "10,1",
+    "AutoCityAlc": 7,
+    "AutoRoadGas": "14,5",
+    "AutoRoadAlc": "9,8"
+  },
+  {
+    "Id": 108,
+    "CarModel": "Hb20 Comfort Style 1.0",
+    "CarYear": 2015,
+    "AutoCityGas": "11,5",
+    "AutoCityAlc": "7,6",
+    "AutoRoadGas": "12,7",
+    "AutoRoadAlc": "8,7"
+  },
+  {
+    "Id": 109,
+    "CarModel": "Hb20 Comfort Plus 1.6",
+    "CarYear": 2015,
+    "AutoCityGas": "11,6",
+    "AutoCityAlc": "7,6",
+    "AutoRoadGas": "12,7",
+    "AutoRoadAlc": "8,7"
+  },
+  {
+    "Id": 110,
+    "CarModel": "Hb20 Premium 1.6",
+    "CarYear": 2015,
+    "AutoCityGas": "11,6",
+    "AutoCityAlc": "7,6",
+    "AutoRoadGas": "14,5",
+    "AutoRoadAlc": "9,8"
+  },
+  {
+    "Id": 111,
+    "CarModel": "Hb20 Comfort 1.0",
+    "CarYear": 2015,
+    "AutoCityGas": "11,5",
+    "AutoCityAlc": "7,6",
+    "AutoRoadGas": "14,5",
+    "AutoRoadAlc": "9,8"
+  },
+  {
+    "Id": 112,
+    "CarModel": "Hb20 Comfort Plus 1.0",
+    "CarYear": 2014,
+    "AutoCityGas": "11,5",
+    "AutoCityAlc": "7,6",
+    "AutoRoadGas": "14,5",
+    "AutoRoadAlc": "9,8"
+  },
+  {
+    "Id": 113,
+    "CarModel": "Hb20 Comfort 1.0",
+    "CarYear": 2014,
+    "AutoCityGas": "11,5",
+    "AutoCityAlc": "7,6",
+    "AutoRoadGas": 13,
+    "AutoRoadAlc": "9,3"
+  },
+  {
+    "Id": 114,
+    "CarModel": "Hb20 Copa do Mundo 1.6",
+    "CarYear": 2014,
+    "AutoCityGas": "11,5",
+    "AutoCityAlc": "7,7",
+    "AutoRoadGas": "12,3",
+    "AutoRoadAlc": "8,8"
+  },
+  {
+    "Id": 115,
+    "CarModel": "Hb20 Copa do Mundo 1.6 AT",
+    "CarYear": 2014,
+    "AutoCityGas": "10,3",
+    "AutoCityAlc": "7,2",
+    "AutoRoadGas": "11,8",
+    "AutoRoadAlc": "8,3"
+  },
+  {
+    "Id": 116,
+    "CarModel": "Hb20 Comfort Style 1.6 AT",
+    "CarYear": 2014,
+    "AutoCityGas": "10,1",
+    "AutoCityAlc": 7,
+    "AutoRoadGas": "14,5",
+    "AutoRoadAlc": "9,8"
+  },
+  {
+    "Id": 117,
+    "CarModel": "Hb20 Comfort Style 1.0",
+    "CarYear": 2014,
+    "AutoCityGas": "11,5",
+    "AutoCityAlc": "7,6",
+    "AutoRoadGas": "14,5",
+    "AutoRoadAlc": "9,8"
+  },
+  {
+    "Id": 118,
+    "CarModel": "Hb20 Comfort 1.0",
+    "CarYear": 2013,
+    "AutoCityGas": "11,5",
+    "AutoCityAlc": "7,6",
+    "AutoRoadGas": "14,5",
+    "AutoRoadAlc": "9,8"
+  },
+  {
+    "Id": 119,
+    "CarModel": "Hb20 Comfort Plus 1.0",
+    "CarYear": 2013,
+    "AutoCityGas": "11,5",
+    "AutoCityAlc": "7,6",
+    "AutoRoadGas": "12,7",
+    "AutoRoadAlc": "8,7"
+  },
+  {
+    "Id": 120,
+    "CarModel": "Hb20 Comfort Style 1.6",
+    "CarYear": 2013,
+    "AutoCityGas": "11,6",
+    "AutoCityAlc": "7,6",
+    "AutoRoadGas": "12,7",
+    "AutoRoadAlc": "8,7"
+  },
+  {
+    "Id": 121,
+    "CarModel": "Hb20 Comfort Plus 1.6",
+    "CarYear": 2013,
+    "AutoCityGas": "11,6",
+    "AutoCityAlc": "7,6",
+    "AutoRoadGas": "12,7",
+    "AutoRoadAlc": "8,7"
+  },
+  {
+    "Id": 122,
+    "CarModel": "Hb20 Comfort 1.6",
+    "CarYear": 2013,
+    "AutoCityGas": "11,6",
+    "AutoCityAlc": "7,6",
+    "AutoRoadGas": "12,7",
+    "AutoRoadAlc": "8,7"
   }
 ]
